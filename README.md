@@ -24,7 +24,7 @@ A list of awesome AI for chemistry papers. Please feel free to contribute and he
 
 ## Retrosynthesis
 ### Molecular_design
-1. [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
-    Marwin H. S. Segler, Mike Preuss & Mark P. Waller, Nature 555, 604–610 (2018)
+1.  [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
+    Marwin H. S. Segler, Mike Preuss & Mark P. Waller, Nature 555, 604–610 (2018) [Reinforcement learning]
 2. 
 
