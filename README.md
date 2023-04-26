@@ -18,13 +18,24 @@ A list of awesome AI for chemistry papers. Please feel free to contribute and he
     - [Enhanced sampling](#enhanced_sampling)
     - [Force field design](#force_field_design) 
     - 
-- [Experimental physical chemistry: Spectroscopy applications](#spectroscopy_learning)
+- [Experimental physical chemistry](#experimental_physical_chemistry)
 - [Biochemistry: Biomolecule (protein/nucleic acid/lipid) design/structure](#biomolecule_design)
 - [Analytical chemistry: TBA]
+- [Reviews](#reviews)
 
 ## Retrosynthesis
 ### Molecular_design
 1.  [Planning chemical syntheses with deep neural networks and symbolic AI](https://www.nature.com/articles/nature25978)
     Marwin H. S. Segler, Mike Preuss & Mark P. Waller, Nature 555, 604–610 (2018) [Reinforcement learning]
 2. 
+
+## Electronic_Structure
+
+## Molecular_Dynamics
+
+## Experimental_Physical_Chemistry
+
+## Biomolecule_Design
+
+## Reviews
 
