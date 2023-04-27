@@ -53,8 +53,8 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 ### Force_field_design
 1. [SchNet - A deep learning architecture for molecules and materials](https://pubs.aip.org/aip/jcp/article/148/24/241722/962591/SchNet-A-deep-learning-architecture-for-molecules) 
     K. T. Schütt, H. E. Sauceda, P.-J. Kindermans, A. Tkatchenko, K.-R. Müller, The Journal of Chemical Physics **148**, 241722 (2018)
-2. [ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost]
-    J. S. Smith,   O. Isayev, & A. E. Roitberg, 
+2. [ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
+    J. S. Smith,   O. Isayev, & A. E. Roitberg, Chemical Sciences **8**, 3192-3203 (2017)
 
 ## Experimental_Physical_Chemistry
 
