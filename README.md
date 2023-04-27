@@ -1,8 +1,13 @@
 # Awesome AI for Chemistry
 
-A list of awesome AI for chemistry papers. Please feel free to contribute and help to improve the quality of this page.
+*[AI4Sci Edu](https://github.com/AI4SciEdu) related repo* 
 
-Note: To highlight the paper, we switch the order of authors and paper title in the citation.
+A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded repositories in Computer Science. Please feel free to contribute and help to improve the quality of this page.
+
+- Note 1: To highlight the paper, we switch the order of authors and paper title in the citation. Please cite the authors correctly instead of directly copying from our page.
+
+- Note 2: If your work is not listed, but you feel it is influncial/inspiring/novel, please feel free to provide comments via Discussion or create an issue. 
+
 
 ## Table of Contents
 - [Organic/Inorganic chemsitry: Retrosynthesis planning](#retrosynthesis)
@@ -34,13 +39,13 @@ Note: To highlight the paper, we switch the order of authors and paper title in 
 ## Retrosynthesis
 ### Molecular/Material_Design
 1. [Planning chemical syntheses with deep neural networks and symbolic AI.](https://www.nature.com/articles/nature25978)
-    Marwin H. S. Segler, Mike Preuss, & Mark P. Waller, Nature *555*, 604–610 (2018) [Reinforcement learning]
+    Marwin H. S. Segler, Mike Preuss, & Mark P. Waller, Nature **555**, 604–610 (2018) [Reinforcement learning]
 2. [Learning retrosynthetic planning through simulated experience.](https://pubs.acs.org/doi/full/10.1021/acscentsci.9b00055)
-    John S. Schreck, Connor W. Coley, & Kyle J. M. Bishop, ACS Central Science *5*(6), 970-981 (2019) [Reinforcement learning]
+    John S. Schreck, Connor W. Coley, & Kyle J. M. Bishop, ACS Central Science **5**(6), 970-981 (2019) [Reinforcement learning]
 
 ### Reaction_Design
 1. [Prediction of organic reaction outcomes using machine learning](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00064)
-    Connor W. Coley, Regina Barzilay, Tommi S. Jaakkola, William H. Green, & Klavs F. Jensen, ACS Central Science *3*(5), 434–443 (2017)
+    Connor W. Coley, Regina Barzilay, Tommi S. Jaakkola, William H. Green, & Klavs F. Jensen, ACS Central Science **3**(5), 434–443 (2017)
 
 ## Electronic_Structure
 
@@ -52,14 +57,22 @@ Note: To highlight the paper, we switch the order of authors and paper title in 
 
 ## Automated_Experiments
 1. [A mobile robotic chemist.](https://www.nature.com/articles/s41586-020-2442-2)
-    Benjamin Burger, Phillip M. Maffettone, Vladimir V. Gusev, Catherine M. Aitchison, Yang Bai, Xiaoyan Wang, Xiaobo Li, Ben M. Alston, Buyi Li, Rob Clowes, Nicola Rankin, Brandon Harris, Reiner Sebastian Sprick, & Andrew I. Cooper, Nature *583*, 237–241 (2020) [Robtics + Bayesian learning]
+    Benjamin Burger, Phillip M. Maffettone, Vladimir V. Gusev, Catherine M. Aitchison, Yang Bai, Xiaoyan Wang, Xiaobo Li, Ben M. Alston, Buyi Li, Rob Clowes, Nicola Rankin, Brandon Harris, Reiner Sebastian Sprick, & Andrew I. Cooper, Nature **583**, 237–241 (2020) [Robtics + Bayesian learning]
 2. [A robotic platform for flow synthesis of organic compounds informed by AI planning.](https://www.science.org/doi/full/10.1126/science.aax1566) 
-    Connor W. Coley, Dale A. Thomas III, Justin A.M. Lummiss, Jonathan N. Jaworski, Christopher P. Breen, Victor Schultz, Travis Hart, Joshua S. Fishman, Luke Rogers, Hanyu Gao, Robert W. Hicklin, Pieter P. Plehiers, Joshua Byington, John S. Piotti, William H. Green, A. John Hart, Timothy F. Jamison, & Klavs F. Jensen, Science *365*(6453), eaax1566 (2019) [Software + Experiments]
+    Connor W. Coley, Dale A. Thomas III, Justin A.M. Lummiss, Jonathan N. Jaworski, Christopher P. Breen, Victor Schultz, Travis Hart, Joshua S. Fishman, Luke Rogers, Hanyu Gao, Robert W. Hicklin, Pieter P. Plehiers, Joshua Byington, John S. Piotti, William H. Green, A. John Hart, Timothy F. Jamison, & Klavs F. Jensen, Science **365**(6453), eaax1566 (2019) [Software + Experiments]
 
 ## Reviews
+Note: We will try to provide both the most influncial reviews and the most recent/updated reviews. The list will be updated timely manner. 
+
 1. [Machine learning for molecular and materials science.](https://www.nature.com/articles/s41586-018-0337-2)
-    Keith T. Butler, Daniel W. Davies, Hugh Cartwright, Olexandr Isayev, & Aron Walsh, Nature *559*, 547–555 (2018)
-2. [Four Generations of High-Dimensional Neural Network Potentials](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00868)
-    Jörg Behler, Chemical Reviews *121*(16), 10037–10072 (2021)
+    Keith T. Butler, Daniel W. Davies, Hugh Cartwright, Olexandr Isayev, & Aron Walsh, Nature **559**, 547–555 (2018)
+2. [Four generations of high-dimensional neural network potentials](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00868)
+    Jörg Behler, Chemical Reviews **121**(16), 10037–10072 (2021)
 3. [Inverse molecular design using machine learning: Generative models for matter engineering.](https://www.science.org/doi/10.1126/science.aat2663)
-    Benjamin Sanchez-Lengeling,& Alán Aspuru-Guzik, Science *361*(6400), 360-365 (2018) 
+    Benjamin Sanchez-Lengeling,& Alán Aspuru-Guzik, Science **361**(6400), 360-365 (2018) 
+4. [Data-Driven strategies for accelerated materials design](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00785)
+Robert Pollice, Gabriel dos Passos Gomes, Matteo Aldeghi, Riley J. Hickman, Mario Krenn, Cyrille Lavigne, Michael Lindner-D’Addario, AkshatKumar Nigam, Cher Tian Ser, Zhenpeng Yao, and Alán Aspuru-Guzik, Accounts of Chemical Research **54**(4), 849–860 (2021)
+5. [Molecular excited states through a machine learning lens](https://www.nature.com/articles/s41570-021-00278-1)
+    Pavlo O. Dral & Mario Barbatti, Nature Reviews Chemistry **5**, 388–405 (2021)
+6. [Combining machine learning and computational chemistry for predictive insights into chemical systems](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00107)
+    John A. Keith, Valentin Vassilev-Galindo, Bingqing Cheng, Stefan Chmiela, Michael Gastegger, Klaus-Robert Müller, & Alexandre Tkatchenko, Chemical Reviews **121**(16), 9816–9872 (2021)
