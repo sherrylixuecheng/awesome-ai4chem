@@ -2,6 +2,8 @@
 
 *[AI4Sci Edu](https://github.com/AI4SciEdu) related repo* 
 
+*Still under construction🚧👷🏻‍♂️*
+
 A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded repositories in Computer Science. Please feel free to contribute and help to improve the quality of this page.
 
 - Note 1: To highlight the paper, we switch the order of authors and paper title in the citation. Please cite the authors correctly instead of directly copying from our page.
@@ -26,13 +28,9 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     - [Force field design](#force_field_design) 
 - [Generalized model/Datasets](#generalized_model/datasets)
 - [Experimental physical chemistry](#experimental_physical_chemistry)
-    - ...
 - [Biochemistry: Biomolecule (protein/nucleic acid/lipid) design/structure](#biomolecule_design)
-    - ...
-- [Analytical chemistry: TBA]
-    - ...
+- [Analytical chemistry](#analytical_chemistry)
 - [Robotic chemist/Automation](#automated_experiments)
-    - ...
 - [Reviews](#reviews)
 
 
@@ -42,13 +40,14 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     Marwin H. S. Segler, Mike Preuss, & Mark P. Waller, Nature **555**, 604–610 (2018) [Reinforcement learning]
 2. [Learning retrosynthetic planning through simulated experience.](https://pubs.acs.org/doi/full/10.1021/acscentsci.9b00055)
     John S. Schreck, Connor W. Coley, & Kyle J. M. Bishop, ACS Central Science **5**(6), 970-981 (2019) [Reinforcement learning]
+3. ...
 
 ### Reaction_Design
 1. [Prediction of organic reaction outcomes using machine learning](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00064)
     Connor W. Coley, Regina Barzilay, Tommi S. Jaakkola, William H. Green, & Klavs F. Jensen, ACS Central Science **3**(5), 434–443 (2017)
-
+2. 
 ## Electronic_Structure
-
+1. ...
 ## Molecular_Dynamics
 ### Force_field_design
 1. [SchNet - A deep learning architecture for molecules and materials](https://pubs.aip.org/aip/jcp/article/148/24/241722/962591/SchNet-A-deep-learning-architecture-for-molecules) 
@@ -57,8 +56,13 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     J. S. Smith,   O. Isayev, & A. E. Roitberg, Chemical Sciences **8**, 3192-3203 (2017)
 
 ## Experimental_Physical_Chemistry
+1. ...
 
 ## Biomolecule_Design
+1. ...
+
+## Analytical chemistry
+1. ...
 
 ## Automated_Experiments
 1. [A mobile robotic chemist.](https://www.nature.com/articles/s41586-020-2442-2)
