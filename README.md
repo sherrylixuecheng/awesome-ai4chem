@@ -50,6 +50,11 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 ## Electronic_Structure
 
 ## Molecular_Dynamics
+### Force_field_design
+1. [SchNet - A deep learning architecture for molecules and materials](https://pubs.aip.org/aip/jcp/article/148/24/241722/962591/SchNet-A-deep-learning-architecture-for-molecules) 
+    K. T. Schütt, H. E. Sauceda, P.-J. Kindermans, A. Tkatchenko, K.-R. Müller, The Journal of Chemical Physics **148**, 241722 (2018)
+2. [ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost]
+    J. S. Smith,   O. Isayev, & A. E. Roitberg, 
 
 ## Experimental_Physical_Chemistry
 
@@ -57,37 +62,37 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 
 ## Automated_Experiments
 1. [A mobile robotic chemist.](https://www.nature.com/articles/s41586-020-2442-2)
-    Benjamin Burger, Phillip M. Maffettone, Vladimir V. Gusev, Catherine M. Aitchison, Yang Bai, Xiaoyan Wang, Xiaobo Li, Ben M. Alston, Buyi Li, Rob Clowes, Nicola Rankin, Brandon Harris, Reiner Sebastian Sprick, & Andrew I. Cooper, Nature **583**, 237–241 (2020) [Robtics + Bayesian learning]
+    B. Burger, P. M. Maffettone, V. V. Gusev, C. M. Aitchison, Y. Bai, X. Wang, X. Li, B. M. Alston, B. Li, R. Clowes, N. Rankin, B. Harris, R. S. Sprick, & A. I. Cooper, Nature **583**, 237–241 (2020) [Robtics + Bayesian learning]
 2. [A robotic platform for flow synthesis of organic compounds informed by AI planning.](https://www.science.org/doi/full/10.1126/science.aax1566) 
-    Connor W. Coley, Dale A. Thomas III, Justin A.M. Lummiss, Jonathan N. Jaworski, Christopher P. Breen, Victor Schultz, Travis Hart, Joshua S. Fishman, Luke Rogers, Hanyu Gao, Robert W. Hicklin, Pieter P. Plehiers, Joshua Byington, John S. Piotti, William H. Green, A. John Hart, Timothy F. Jamison, & Klavs F. Jensen, Science **365**(6453), eaax1566 (2019) [Software + Experiments]
+    C. W. Coley, D. A. Thomas III, J. A.M. Lummiss, J. N. Jaworski, C. P. Breen, V. Schultz, T. Hart, J. S. Fishman, L. Rogers, H. Gao, R. W. Hicklin, P. P. Plehiers, J. Byington, J. S. Piotti, W. H. Green, A. J. Hart, T. F. Jamison, & K. F. Jensen, Science **365**(6453), eaax1566 (2019) [Software + Experiments]
 
 ## Reviews
 Note: We will try to provide both the most influncial/comprehensive reviews and the most recent/updated reviews. The list will be updated timely manner. 
 
 1. [Machine learning for molecular and materials science.](https://www.nature.com/articles/s41586-018-0337-2)
-    Keith T. Butler, Daniel W. Davies, Hugh Cartwright, Olexandr Isayev, & Aron Walsh, Nature **559**, 547–555 (2018)
+    K. T. Butler, D. W. Davies, H. Cartwright, O. Isayev, & A. Walsh, Nature **559**, 547–555 (2018)
 2. [Four generations of high-dimensional neural network potentials](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00868)
-    Jörg Behler, Chemical Reviews **121**(16), 10037–10072 (2021)
+    J. Behler, Chemical Reviews **121**(16), 10037–10072 (2021)
 3. [Inverse molecular design using machine learning: Generative models for matter engineering.](https://www.science.org/doi/10.1126/science.aat2663)
-    Benjamin Sanchez-Lengeling,& Alán Aspuru-Guzik, Science **361**(6400), 360-365 (2018) 
-4. [Data-Driven strategies for accelerated materials design](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00785)
-    Robert Pollice, Gabriel dos Passos Gomes, Matteo Aldeghi, Riley J. Hickman, Mario Krenn, Cyrille Lavigne, Michael Lindner-D’Addario, AkshatKumar Nigam, Cher Tian Ser, Zhenpeng Yao, and Alán Aspuru-Guzik, Accounts of Chemical Research **54**(4), 849–860 (2021)
+    B. Sanchez-Lengeling,& A. Aspuru-Guzik, Science **361**(6400), 360-365 (2018) 
+4. [Data-driven strategies for accelerated materials design](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00785)
+    R. Pollice, G. dos Passos Gomes, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. Lindner-D’Addario, A. Nigam, C. T. Ser, Z. Yao, & A. Aspuru-Guzik, Accounts of Chemical Research **54**(4), 849–860 (2021)
 5. [Molecular excited states through a machine learning lens](https://www.nature.com/articles/s41570-021-00278-1)
-    Pavlo O. Dral & Mario Barbatti, Nature Reviews Chemistry **5**, 388–405 (2021)
+    P. O. Dral & M. Barbatti, Nature Reviews Chemistry **5**, 388–405 (2021)
 6. [Combining machine learning and computational chemistry for predictive insights into chemical systems](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00107)
-    John A. Keith, Valentin Vassilev-Galindo, Bingqing Cheng, Stefan Chmiela, Michael Gastegger, Klaus-Robert Müller, & Alexandre Tkatchenko, Chemical Reviews **121**(16), 9816–9872 (2021)
+    J. A. Keith, V. Vassilev-Galindo, B. Cheng, S. Chmiela, M. Gastegger, K.-R. Müller, & A. Tkatchenko, Chemical Reviews **121**(16), 9816–9872 (2021)
 7. [Machine learning force fields](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01111)
-    Oliver T. Unke, Stefan Chmiela, Huziel E. Sauceda, Michael Gastegger, Igor Poltavsky, Kristof T. Schütt, Alexandre Tkatchenko, & Klaus-Robert Müller, Chemical Reviews **121**(16), 10142–10186 (2021)
+    O. T. Unke, S. Chmiela, H. E. Sauceda, M. Gastegger, I. Poltavsky, K. T. Schütt, A. Tkatchenko, & K.-R. Müller, Chemical Reviews **121**(16), 10142–10186 (2021)
 8. [Physics-inspired structural tepresentations for molecules and materials](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00021)
-    Felix Musil, Andrea Grisafi, Albert P. Bartók, Christoph Ortner, Gábor Csányi, & Michele Ceriotti, Chemical Reviews **121**(16), 9759–9815 (2021)
+    F. Musil, A. Grisafi, A. P. Bartók, C. Ortner, G. Csányi, & M. Ceriotti, Chemical Reviews **121**(16), 9759–9815 (2021)
 9. [Machine Learning for Chemical Reactions](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
-    Markus Meuwly, Chemical Reviews **121**(16), 10218–10239 (2021)
+    M. Meuwly, Chemical Reviews **121**(16), 10218–10239 (2021)
 10. [Artificial intelligence applied to battery research: Hype or reality?](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00108)
-    Teo Lombardo, Marc Duquesnoy, Hassna El-Bouysidy, Fabian Årén, Alfonso Gallo-Bueno, Peter Bjørn Jørgensen, Arghya Bhowmik, Arnaud Demortière, Elixabete Ayerbe, Francisco Alcaide, Marine Reynaud, Javier Carrasco, Alexis Grimaud, Chao Zhang, Tejs Vegge, Patrik Johansson, & Alejandro A. Franco, Chemical Reviews **122**(12), 9759–9815 (2022)
+    T. Lombardo, M. Duquesnoy, H. El-Bouysidy, F. Årén, A. Gallo-Bueno, P. B. Jørgensen, A. Bhowmik, A. Demortière, E. Ayerbe, F. Alcaide, M. Reynaud, J. Carrasco, A. Grimaud, C. Zhang, T. Vegge, P. Johansson, & A. A. Franco, Chemical Reviews **122**(12), 9759–9815 (2022)
 11. [Autonomous Discovery in the Chemical Sciences Part I: Progress](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909987) and [Autonomous Discovery in the Chemical Sciences Part II: Outlook](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909989)
-    Connor W. Coley, Natalie S. Eyke, & Klavs F. Jensen, Angewandte Chemie International Edition, **59**, Part I: 22858 and Part II: 23414 (2020) 
+    C. W. Coley, N. S. Eyke, & K. F. Jensen, Angewandte Chemie International Edition, **59**, Part I: 22858 and Part II: 23414 (2020) 
 12. [Taking the leap between analytical chemistry and artificial intelligence: A tutorial review](https://www.sciencedirect.com/science/article/abs/pii/S0003267021002294)
-    Lucas B. Ayres, Federico J.V. Gomez, Jeb R. Linton, Maria F. Silva, & Carlos D. Garcia, Analytica Chimica Acta **1161**, 338403 (2021)
+    L. B. Ayres, F. J.V. Gomez, J. R. Linton, M. F. Silva, & C. D. Garcia, Analytica Chimica Acta **1161**, 338403 (2021)
 13. [Recent advances and applications of deep learning methods in materials science](https://www.nature.com/articles/s41524-022-00734-6)
-    Kamal Choudhary, Brian DeCost, Chi Chen, Anubhav Jain, Francesca Tavazza, Ryan Cohn, Cheol Woo Park, Alok Choudhary, Ankit Agrawal, Simon J. L. Billinge, Elizabeth Holm, Shyue Ping Ong, & Chris Wolverton, npj Computational Materials **8**, 59 (2022)
+    K. Choudhary, B. DeCost, C. Chen, A. Jain, F. Tavazza, R. Cohn, C. W. Park, A. Choudhary, A. Agrawal, S. J. L. Billinge, E. Holm, S. P. Ong, & C. Wolverton, npj Computational Materials **8**, 59 (2022)
 
