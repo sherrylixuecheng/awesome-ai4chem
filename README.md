@@ -46,14 +46,37 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 1. [Prediction of organic reaction outcomes using machine learning](https://pubs.acs.org/doi/full/10.1021/acscentsci.7b00064)
     Connor W. Coley, Regina Barzilay, Tommi S. Jaakkola, William H. Green, & Klavs F. Jensen, ACS Central Science **3**(5), 434–443 (2017)
 2. 
+
 ## Electronic_Structure
 1. ...
+
 ## Molecular_Dynamics
+
 ### Force_field_design
 1. [SchNet - A deep learning architecture for molecules and materials](https://pubs.aip.org/aip/jcp/article/148/24/241722/962591/SchNet-A-deep-learning-architecture-for-molecules) 
     K. T. Schütt, H. E. Sauceda, P.-J. Kindermans, A. Tkatchenko, K.-R. Müller, The Journal of Chemical Physics **148**, 241722 (2018)
 2. [ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
     J. S. Smith,   O. Isayev, & A. E. Roitberg, Chemical Sciences **8**, 3192-3203 (2017)
+
+## Generalized_Model/Datasets
+1. [The Open Reaction Database](https://pubs.acs.org/doi/10.1021/jacs.1c09820)
+    S. M. Kearnes, M. R. Maser, M. Wleklinski, A. Kast, A. G. Doyle, S. D. Dreher, J. M. Hawkins, K.s F. Jensen, & C. W. Coley, Journal of the American Chemical Society **143**(45), 18820–18826 (2021). [Dataset](https://docs.open-reaction-database.org/en/latest/)
+2. QM series dataset (Please also see [quantum-machine](http://quantum-machine.org/datasets/) page)
+- QM9 Dataset:
+    - [Quantum chemistry structures and properties of 134 kilo molecules](https://www.nature.com/articles/sdata201422)
+        R. Ramakrishnan, P. O. Dral, M. Rupp, & O. A. von Lilienfeld, Scientific Data **1**, 140022 (2014) 
+    - [Orginial version. Theory: B3LYP/6-31G(2df,p)](https://doi.org/10.6084/m9.figshare.978904)
+    - [Wavefunction theory verison. Theory: MP2/cc-pVTZ](https://data.caltech.edu/records/1j8b6-j4y80) Only has dipole moments and molecular energies
+    - [Kaggle page](https://www.kaggle.com/code/zaharch/quantum-machine-9-qm9)
+- QM7 & QM7b Dataset:
+
+- QMSpin Dataset:
+
+- tmQM Dataset: 
+
+3. GDB series dataset:
+- GDB 17:
+- GDB 13:
 
 ## Experimental_Physical_Chemistry
 1. ...
@@ -104,4 +127,5 @@ Note: We will try to provide both the most influncial/comprehensive reviews and 
 15. [Perspective on integrating machine learning into computational chemistry and materials science](https://pubs.aip.org/aip/jcp/article/154/23/230903/200193/Perspective-on-integrating-machine-learning-into)
     J. Westermayr, M. Gastegger, K. T. Schütt, & R. J. Maurer, The Journal of Chemical Physics **154**, 230903 (2021)
 
-
+16. [Machine learning in scanning transmission electron microscopy](https://www.nature.com/articles/s43586-022-00095-w)
+    S. V. Kalinin, C. Ophus, P. M. Voyles, R. Erni, D. Kepaptsoglou, V. Grillo, A. R. Lupini, M. P. Oxley, E. Schwenker, M. K. Y. Chan, J. Etheridge, X. Li, G. G. D. Han, M. Ziatdinov, N. Shibata, & S. J. Pennycook, Nature Reviews Methods Primers **2**, 11 (2022) 
