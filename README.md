@@ -1,10 +1,10 @@
 # Awesome AI for Chemistry
 
-*[AI4Sci Edu](https://github.com/AI4SciEdu) related repo* *Still under construction*🚧👷🏻‍♂️
+*[AI4Sci Edu](https://github.com/AI4SciEdu) related repo.* *Still under construction*🚧👷🏻‍♂️
 
 
 <p align="center">
-<img src="logo.jpg"  width="200" >
+<img src="logo.jpg"  width="250" >
 </p>
 
 A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded repositories in Computer Science. Please feel free to contribute and help to improve the quality of this page.
