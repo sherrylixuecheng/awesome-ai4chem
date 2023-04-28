@@ -61,22 +61,38 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 ## Generalized_Model/Datasets
 1. [The Open Reaction Database](https://pubs.acs.org/doi/10.1021/jacs.1c09820)
     S. M. Kearnes, M. R. Maser, M. Wleklinski, A. Kast, A. G. Doyle, S. D. Dreher, J. M. Hawkins, K.s F. Jensen, & C. W. Coley, Journal of the American Chemical Society **143**(45), 18820–18826 (2021). [Dataset](https://docs.open-reaction-database.org/en/latest/)
-2. QM series dataset (Please also see [quantum-machine](http://quantum-machine.org/datasets/) page)
+2. QM series (Please also see [quantum-machine](http://quantum-machine.org/datasets/) page)
 - QM9 Dataset:
     - [Quantum chemistry structures and properties of 134 kilo molecules](https://www.nature.com/articles/sdata201422)
         R. Ramakrishnan, P. O. Dral, M. Rupp, & O. A. von Lilienfeld, Scientific Data **1**, 140022 (2014) 
     - [Orginial version. Theory: B3LYP/6-31G(2df,p)](https://doi.org/10.6084/m9.figshare.978904)
-    - [Wavefunction theory verison. Theory: MP2/cc-pVTZ](https://data.caltech.edu/records/1j8b6-j4y80) Only has dipole moments and molecular energies
+    - [Wavefunction theory verison. Theory: MP2/cc-pVTZ](https://doi.org/10.22002/D1.20142) Only has dipole moments and molecular energies
     - [Kaggle page](https://www.kaggle.com/code/zaharch/quantum-machine-9-qm9)
 - QM7 & QM7b Dataset:
+    - [Fast and Accurate Modeling of Molecular Atomization Energies with Machine Learning.](http://dx.doi.org/10.1103/PhysRevLett.108.058301) (QM7)
+        M. Rupp, A. Tkatchenko, K.-R. Müller, O. A. von Lilienfeld, Physical Review Letters **108**(5),058301 (2012)
+    - [Machine Learning of Molecular Electronic Properties in Chemical Compound Space.](https://iopscience.iop.org/article/10.1088/1367-2630/15/9/095003)
+        G. Montavon, M. Rupp, V. Gobre, A. Vazquez-Mayagoitia, K. Hansen, A. Tkatchenko, K.-R. Müller, O.A. von Lilienfeld, New Journal of Physics **15**, 095003(2013)
+    - [QM7 original dataset](http://quantum-machine.org/data/qm7.mat)
+    - [QM7b original dataset](http://quantum-machine.org/data/qm7b.mat)
+    - [Wavefunction theory verison. Theory: MP2/cc-pVTZ](https://doi.org/10.22002/D1.1177) Improved features & addtional datasets are available [here](https://doi.org/10.22002/D1.1792)
 
 - QMSpin Dataset:
 
 - tmQM Dataset: 
 
-3. GDB series dataset:
+3. GDB series:
 - GDB 17:
 - GDB 13:
+
+4. [ISO17 dataset]()
+
+
+5. [DESMILES Models & Training datasets]
+- [A Deep-Learning View of Chemical Space Designed to Facilitate Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00321)
+    P. Maragakis, H. Nisonoff, B. Cole, & D. E. Shaw, Journal of Chemical Information and Modeling **60**(10), 4487–4496 (2020)
+
+6. 
 
 ## Experimental_Physical_Chemistry
 1. ...
