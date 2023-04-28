@@ -89,8 +89,6 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 
 
 5. [DESMILES Models & Training datasets](https://www.deshawresearch.com/downloads/download_desmiles.cgi/)
-- [A Deep-Learning View of Chemical Space Designed to Facilitate Drug Discovery](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00321)
-    P. Maragakis, H. Nisonoff, B. Cole, & D. E. Shaw, Journal of Chemical Information and Modeling **60**(10), 4487–4496 (2020)
 
 6. 
 
