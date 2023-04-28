@@ -1,8 +1,11 @@
 # Awesome AI for Chemistry
 
-*[AI4Sci Edu](https://github.com/AI4SciEdu) related repo* 
+*[AI4Sci Edu](https://github.com/AI4SciEdu) related repo* *Still under construction*🚧👷🏻‍♂️
 
-*Still under construction*🚧👷🏻‍♂️
+
+<p align="center">
+<img src="logo.jpg"  width="200" >
+</p>
 
 A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded repositories in Computer Science. Please feel free to contribute and help to improve the quality of this page.
 
@@ -78,15 +81,21 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     - [Wavefunction theory verison. Theory: MP2/cc-pVTZ](https://doi.org/10.22002/D1.1177) Improved features & addtional datasets are available [here](https://doi.org/10.22002/D1.1792)
 
 - QMSpin Dataset:
-
+    - [Large yet bounded: Spin gap ranges in carbenes.](https://arxiv.org/abs/2004.10600)
+    M. Schwilk, D. N. Tahchieva, & O. A. von Lilienfeld, arXiv:2004.10600 (2020)
+    - Dataset[Part 1](http://quantum-machine.org/data/qmspin/QMspin_Part1.tar.gz) & [Part 2](http://quantum-machine.org/data/qmspin/QMspin_Part1_wo_outputs.tar.gz)
+ 
 - tmQM Dataset: 
 
 3. GDB series:
 - GDB 17:
 - GDB 13:
 
-4. [ISO17 dataset]()
-
+4. [MD17 dataset](https://www.science.org/doi/10.1126/sciadv.1603015) 
+    - [Original Dataset](http://www.sgdml.org/#datasets)
+    S. Chmiela, A. Tkatchenko, H. E. Sauceda, I. Poltavsky, K. T. Schütt, & K.-R. Müller, Science Advances **3**,e1603015(2017)
+    - [Reviseddataset (rMD17)](https://figshare.com/articles/dataset/Revised_MD17_dataset_rMD17_/12672038)
+    A. S. Christensen & O. A. von Lilienfeld, arXiv:2007.09593 (2020)
 
 5. [DESMILES Models & Training datasets](https://www.deshawresearch.com/downloads/download_desmiles.cgi/)
 
