@@ -83,13 +83,19 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 - QMSpin Dataset:
     - [Large yet bounded: Spin gap ranges in carbenes.](https://arxiv.org/abs/2004.10600)
     M. Schwilk, D. N. Tahchieva, & O. A. von Lilienfeld, arXiv:2004.10600 (2020)
-    - Dataset[Part 1](http://quantum-machine.org/data/qmspin/QMspin_Part1.tar.gz) & [Part 2](http://quantum-machine.org/data/qmspin/QMspin_Part1_wo_outputs.tar.gz)
+    - Dataset[Part 1](http://quantum-machine.org/data/qmspin/QMspin_Part1.tar.gz)  \&  [Part 2](http://quantum-machine.org/data/qmspin/QMspin_Part1_wo_outputs.tar.gz)
  
-- tmQM Dataset: 
+- [tmQM Dataset]() Dataset: [Geometries](http://quantum-machine.org/data/tmQM/tmQM_X.xyz.gz)   \&  [Properties](http://quantum-machine.org/data/tmQM/tmQM_y.csv.gz)
+     D. Balcells, B. B. Skjelstad ChemRxiv. (2020)
+
 
 3. GDB series:
 - GDB 17:
+    - [Original paper](https://pubs.acs.org/doi/full/10.1021/ci300415d)
+    L. Ruddigkeit, R. van Deursen, L. C. Blum, & J.-L. Reymond, Journal of Chemical Information and Modelling **52**, 2864–2875 (2012)
 - GDB 13:
+    - [Original paper](https://pubs.acs.org/doi/10.1021/ja902302h)
+    L. C. Blum & J.-L. Reymond, Journal of the American Chemical Society **131**, 8732 (2009)
 
 4. [MD17 dataset](https://www.science.org/doi/10.1126/sciadv.1603015) 
     - [Original Dataset](http://www.sgdml.org/#datasets)
@@ -98,8 +104,10 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     A. S. Christensen & O. A. von Lilienfeld, arXiv:2007.09593 (2020)
 
 5. [DESMILES Models & Training datasets](https://www.deshawresearch.com/downloads/download_desmiles.cgi/)
+    P. Maragakis, H. Nisonoff, B. Cole, & D. E. Shaw
 
-6. 
+6. [Harvard organic photovoltaic dataset(HOPV15)](https://www.nature.com/articles/sdata201686) [Dataset](https://www.nature.com/articles/sdata201686#ref-CR43)
+    S. A. Lopez, E. O. Pyzer-Knapp, G. N. Simm, T. Lutzow, K. Li, L. R. Seress, J. Hachmann, & A. Aspuru-Guzik, Scientific Data **3**, 160086 (2016)
 
 ## Experimental_Physical_Chemistry
 1. ...
