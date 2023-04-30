@@ -15,6 +15,10 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 
 
 ## Table of Contents
+- [Reviews](#reviews)
+- [Books](#books)
+    - [Chemistry](#chemistry)
+    - [Machine learning](#machine_learning)
 - [Organic/Inorganic chemsitry: Retrosynthesis planning](#retrosynthesis)
     - [Molecular/Material design](#molecular/material_design)
     - [Reaction design/Reactivity](#reaction_design)
@@ -34,8 +38,62 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
 - [Biochemistry: Biomolecule (protein/nucleic acid/lipid) design/structure](#biomolecule_design)
 - [Analytical chemistry](#analytical_chemistry)
 - [Robotic chemist/Automation](#automated_experiments)
-- [Reviews](#reviews)
 
+
+## Reviews
+Note: We will try to provide both the most influncial/comprehensive reviews and the most recent/updated reviews. The list will be updated timely manner. 
+
+1. [Roadmap on Machine learning in electronic structure.](https://iopscience.iop.org/article/10.1088/2516-1075/ac572f)
+    H. J. Kulik, T. Hammerschmidt, J. Schmidt, S. Botti, M. A. L. Marques, M. Boley, M. Scheffler, M. Todorović, P. Rinke, C. Oses, A. Smolyanyuk, S. Curtarolo, A. Tkatchenko, A. P. Bartók, S. Manzhos, M. Ihara, T. Carrington, J. Behler, O. Isayev, M. Veit, A. Grisafi, J. Nigam, M. Ceriotti, K. T. Schütt, J. Westermayr, M. Gastegger, R. J. Maurer, B. Kalita, K. Burke, R. Nagai, R. Akashi, O. Sugino, J. Hermann, F. Noé, S. Pilati, C. Draxl, M. Kuban, S. Rigamonti, M. Scheidgen, M. Esters, D. Hicks, C. Toher, P. V. Balachandran, I. Tamblyn, S. Whitelam, C. Bellinger, & L. M. Ghiringhelli, Electronic Structure **4**, 023004 (2022)
+2. [Machine learning for molecular and materials science.](https://www.nature.com/articles/s41586-018-0337-2)
+    K. T. Butler, D. W. Davies, H. Cartwright, O. Isayev, & A. Walsh, Nature **559**, 547–555 (2018)
+3. [Four generations of high-dimensional neural network potentials](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00868)
+    J. Behler, Chemical Reviews **121**(16), 10037–10072 (2021)
+4. [Inverse molecular design using machine learning: Generative models for matter engineering.](https://www.science.org/doi/10.1126/science.aat2663)
+    B. Sanchez-Lengeling,& A. Aspuru-Guzik, Science **361**(6400), 360-365 (2018) 
+5. [Data-driven strategies for accelerated materials design](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00785)
+    R. Pollice, G. dos Passos Gomes, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. Lindner-D’Addario, A. Nigam, C. T. Ser, Z. Yao, & A. Aspuru-Guzik, Accounts of Chemical Research **54**(4), 849–860 (2021)
+6. [Molecular excited states through a machine learning lens](https://www.nature.com/articles/s41570-021-00278-1)
+    P. O. Dral & M. Barbatti, Nature Reviews Chemistry **5**, 388–405 (2021)
+7. [Combining machine learning and computational chemistry for predictive insights into chemical systems](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00107)
+    J. A. Keith, V. Vassilev-Galindo, B. Cheng, S. Chmiela, M. Gastegger, K.-R. Müller, & A. Tkatchenko, Chemical Reviews **121**(16), 9816–9872 (2021)
+8. [Machine learning force fields](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01111)
+    O. T. Unke, S. Chmiela, H. E. Sauceda, M. Gastegger, I. Poltavsky, K. T. Schütt, A. Tkatchenko, & K.-R. Müller, Chemical Reviews **121**(16), 10142–10186 (2021)
+9. [Physics-inspired structural tepresentations for molecules and materials](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00021)
+    F. Musil, A. Grisafi, A. P. Bartók, C. Ortner, G. Csányi, & M. Ceriotti, Chemical Reviews **121**(16), 9759–9815 (2021)
+10. [Machine Learning for Chemical Reactions](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
+    M. Meuwly, Chemical Reviews **121**(16), 10218–10239 (2021)
+11. [Artificial intelligence applied to battery research: Hype or reality?](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00108)
+    T. Lombardo, M. Duquesnoy, H. El-Bouysidy, F. Årén, A. Gallo-Bueno, P. B. Jørgensen, A. Bhowmik, A. Demortière, E. Ayerbe, F. Alcaide, M. Reynaud, J. Carrasco, A. Grimaud, C. Zhang, T. Vegge, P. Johansson, & A. A. Franco, Chemical Reviews **122**(12), 9759–9815 (2022)
+12. [Autonomous Discovery in the Chemical Sciences Part I: Progress.](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909987) and [Autonomous Discovery in the Chemical Sciences Part II: Outlook.](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909989)
+    C. W. Coley, N. S. Eyke, & K. F. Jensen, Angewandte Chemie International Edition, **59**, Part I: 22858 and Part II: 23414 (2020) 
+13. [Taking the leap between analytical chemistry and artificial intelligence: A tutorial review.](https://www.sciencedirect.com/science/article/abs/pii/S0003267021002294)
+    L. B. Ayres, F. J.V. Gomez, J. R. Linton, M. F. Silva, & C. D. Garcia, Analytica Chimica Acta **1161**, 338403 (2021)
+14. [Recent advances and applications of deep learning methods in materials science.](https://www.nature.com/articles/s41524-022-00734-6)
+    K. Choudhary, B. DeCost, C. Chen, A. Jain, F. Tavazza, R. Cohn, C. W. Park, A. Choudhary, A. Agrawal, S. J. L. Billinge, E. Holm, S. P. Ong, & C. Wolverton, npj Computational Materials **8**, 59 (2022)
+15. [Perspective on integrating machine learning into computational chemistry and materials science](https://pubs.aip.org/aip/jcp/article/154/23/230903/200193/Perspective-on-integrating-machine-learning-into)
+    J. Westermayr, M. Gastegger, K. T. Schütt, & R. J. Maurer, The Journal of Chemical Physics **154**, 230903 (2021)
+
+16. [Machine learning in scanning transmission electron microscopy](https://www.nature.com/articles/s43586-022-00095-w)
+    S. V. Kalinin, C. Ophus, P. M. Voyles, R. Erni, D. Kepaptsoglou, V. Grillo, A. R. Lupini, M. P. Oxley, E. Schwenker, M. K. Y. Chan, J. Etheridge, X. Li, G. G. D. Han, M. Ziatdinov, N. Shibata, & S. J. Pennycook, Nature Reviews Methods Primers **2**, 11 (2022) 
+
+
+## Books
+Note: We will try to provide both the most influncial/comprehensive books (usually the bible book for a field). We provide the links to the corresponding Amazon page to avoid confusion. The list will be updated timely manner. 
+
+### Chemistry
+1. [Modern quantum chemistry: introduction to advanced electronic structure theory](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861)
+    A. Szabo & N.S. Ostlund. Courier Corporation, 2012.
+2. [Density-functional theory of atoms and molecules](https://www.amazon.com/Density-Functional-Molecules-International-Monographs-Chemistry/dp/0195092767)
+    R. G. Parr & W. Yang. Oxford University Press, 1994
+3. [Molecular electronic-structure theory](https://www.amazon.com/Molecular-Electronic-Structure-Theory-Trygve-Helgaker/dp/1118531477)
+    T. Helgaker, P. Jorgensen, J. Olsen. Wiley, 2013
+4. [Statistical mechanics: theory and molecular simulation](https://www.amazon.com/Statistical-Mechanics-Molecular-Simulation-Graduate/dp/0198525265/)
+    M. E. Tuckerman. Oxford University Press, 2010
+5. 
+
+### Machine_Learning
+1. 
 
 ## Retrosynthesis
 ### Molecular/Material_Design
@@ -85,7 +143,7 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     M. Schwilk, D. N. Tahchieva, & O. A. von Lilienfeld, arXiv:2004.10600 (2020)
     - Dataset[Part 1](http://quantum-machine.org/data/qmspin/QMspin_Part1.tar.gz)  \&  [Part 2](http://quantum-machine.org/data/qmspin/QMspin_Part1_wo_outputs.tar.gz)
  
-- [tmQM Dataset]() Dataset: [Geometries](http://quantum-machine.org/data/tmQM/tmQM_X.xyz.gz)   \&  [Properties](http://quantum-machine.org/data/tmQM/tmQM_y.csv.gz)
+- [tmQM Dataset](https://chemrxiv.org/engage/chemrxiv/article-details/60c74f55f96a00358e287c11) Dataset: [Geometries](http://quantum-machine.org/data/tmQM/tmQM_X.xyz.gz)   \&  [Properties](http://quantum-machine.org/data/tmQM/tmQM_y.csv.gz)
      D. Balcells, B. B. Skjelstad ChemRxiv. (2020)
 
 
@@ -123,40 +181,3 @@ A list of awesome AI for chemistry papers. Inspired by the "Awesome" branded rep
     B. Burger, P. M. Maffettone, V. V. Gusev, C. M. Aitchison, Y. Bai, X. Wang, X. Li, B. M. Alston, B. Li, R. Clowes, N. Rankin, B. Harris, R. S. Sprick, & A. I. Cooper, Nature **583**, 237–241 (2020) [Robtics + Bayesian learning]
 2. [A robotic platform for flow synthesis of organic compounds informed by AI planning.](https://www.science.org/doi/full/10.1126/science.aax1566) 
     C. W. Coley, D. A. Thomas III, J. A.M. Lummiss, J. N. Jaworski, C. P. Breen, V. Schultz, T. Hart, J. S. Fishman, L. Rogers, H. Gao, R. W. Hicklin, P. P. Plehiers, J. Byington, J. S. Piotti, W. H. Green, A. J. Hart, T. F. Jamison, & K. F. Jensen, Science **365**(6453), eaax1566 (2019) [Software + Experiments]
-
-## Reviews
-Note: We will try to provide both the most influncial/comprehensive reviews and the most recent/updated reviews. The list will be updated timely manner. 
-
-1. [Roadmap on Machine learning in electronic structure.](https://iopscience.iop.org/article/10.1088/2516-1075/ac572f)
-    H. J. Kulik, T. Hammerschmidt, J. Schmidt, S. Botti, M. A. L. Marques, M. Boley, M. Scheffler, M. Todorović, P. Rinke, C. Oses, A. Smolyanyuk, S. Curtarolo, A. Tkatchenko, A. P. Bartók, S. Manzhos, M. Ihara, T. Carrington, J. Behler, O. Isayev, M. Veit, A. Grisafi, J. Nigam, M. Ceriotti, K. T. Schütt, J. Westermayr, M. Gastegger, R. J. Maurer, B. Kalita, K. Burke, R. Nagai, R. Akashi, O. Sugino, J. Hermann, F. Noé, S. Pilati, C. Draxl, M. Kuban, S. Rigamonti, M. Scheidgen, M. Esters, D. Hicks, C. Toher, P. V. Balachandran, I. Tamblyn, S. Whitelam, C. Bellinger, & L. M. Ghiringhelli, Electronic Structure **4**, 023004 (2022)
-2. [Machine learning for molecular and materials science.](https://www.nature.com/articles/s41586-018-0337-2)
-    K. T. Butler, D. W. Davies, H. Cartwright, O. Isayev, & A. Walsh, Nature **559**, 547–555 (2018)
-3. [Four generations of high-dimensional neural network potentials](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c00868)
-    J. Behler, Chemical Reviews **121**(16), 10037–10072 (2021)
-4. [Inverse molecular design using machine learning: Generative models for matter engineering.](https://www.science.org/doi/10.1126/science.aat2663)
-    B. Sanchez-Lengeling,& A. Aspuru-Guzik, Science **361**(6400), 360-365 (2018) 
-5. [Data-driven strategies for accelerated materials design](https://pubs.acs.org/doi/10.1021/acs.accounts.0c00785)
-    R. Pollice, G. dos Passos Gomes, M. Aldeghi, R. J. Hickman, M. Krenn, C. Lavigne, M. Lindner-D’Addario, A. Nigam, C. T. Ser, Z. Yao, & A. Aspuru-Guzik, Accounts of Chemical Research **54**(4), 849–860 (2021)
-6. [Molecular excited states through a machine learning lens](https://www.nature.com/articles/s41570-021-00278-1)
-    P. O. Dral & M. Barbatti, Nature Reviews Chemistry **5**, 388–405 (2021)
-7. [Combining machine learning and computational chemistry for predictive insights into chemical systems](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00107)
-    J. A. Keith, V. Vassilev-Galindo, B. Cheng, S. Chmiela, M. Gastegger, K.-R. Müller, & A. Tkatchenko, Chemical Reviews **121**(16), 9816–9872 (2021)
-8. [Machine learning force fields](https://pubs.acs.org/doi/10.1021/acs.chemrev.0c01111)
-    O. T. Unke, S. Chmiela, H. E. Sauceda, M. Gastegger, I. Poltavsky, K. T. Schütt, A. Tkatchenko, & K.-R. Müller, Chemical Reviews **121**(16), 10142–10186 (2021)
-9. [Physics-inspired structural tepresentations for molecules and materials](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00021)
-    F. Musil, A. Grisafi, A. P. Bartók, C. Ortner, G. Csányi, & M. Ceriotti, Chemical Reviews **121**(16), 9759–9815 (2021)
-10. [Machine Learning for Chemical Reactions](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00033)
-    M. Meuwly, Chemical Reviews **121**(16), 10218–10239 (2021)
-11. [Artificial intelligence applied to battery research: Hype or reality?](https://pubs.acs.org/doi/10.1021/acs.chemrev.1c00108)
-    T. Lombardo, M. Duquesnoy, H. El-Bouysidy, F. Årén, A. Gallo-Bueno, P. B. Jørgensen, A. Bhowmik, A. Demortière, E. Ayerbe, F. Alcaide, M. Reynaud, J. Carrasco, A. Grimaud, C. Zhang, T. Vegge, P. Johansson, & A. A. Franco, Chemical Reviews **122**(12), 9759–9815 (2022)
-12. [Autonomous Discovery in the Chemical Sciences Part I: Progress.](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909987) and [Autonomous Discovery in the Chemical Sciences Part II: Outlook.](https://onlinelibrary.wiley.com/doi/10.1002/anie.201909989)
-    C. W. Coley, N. S. Eyke, & K. F. Jensen, Angewandte Chemie International Edition, **59**, Part I: 22858 and Part II: 23414 (2020) 
-13. [Taking the leap between analytical chemistry and artificial intelligence: A tutorial review.](https://www.sciencedirect.com/science/article/abs/pii/S0003267021002294)
-    L. B. Ayres, F. J.V. Gomez, J. R. Linton, M. F. Silva, & C. D. Garcia, Analytica Chimica Acta **1161**, 338403 (2021)
-14. [Recent advances and applications of deep learning methods in materials science.](https://www.nature.com/articles/s41524-022-00734-6)
-    K. Choudhary, B. DeCost, C. Chen, A. Jain, F. Tavazza, R. Cohn, C. W. Park, A. Choudhary, A. Agrawal, S. J. L. Billinge, E. Holm, S. P. Ong, & C. Wolverton, npj Computational Materials **8**, 59 (2022)
-15. [Perspective on integrating machine learning into computational chemistry and materials science](https://pubs.aip.org/aip/jcp/article/154/23/230903/200193/Perspective-on-integrating-machine-learning-into)
-    J. Westermayr, M. Gastegger, K. T. Schütt, & R. J. Maurer, The Journal of Chemical Physics **154**, 230903 (2021)
-
-16. [Machine learning in scanning transmission electron microscopy](https://www.nature.com/articles/s43586-022-00095-w)
-    S. V. Kalinin, C. Ophus, P. M. Voyles, R. Erni, D. Kepaptsoglou, V. Grillo, A. R. Lupini, M. P. Oxley, E. Schwenker, M. K. Y. Chan, J. Etheridge, X. Li, G. G. D. Han, M. Ziatdinov, N. Shibata, & S. J. Pennycook, Nature Reviews Methods Primers **2**, 11 (2022) 
