@@ -82,15 +82,48 @@ Note: We will try to provide both the most influncial/comprehensive reviews and 
 Note: We will try to provide both the most influncial/comprehensive books (usually the bible book for a field). We provide the links to the corresponding Amazon page to avoid confusion. The list will be updated timely manner. 
 
 ### Chemistry
+#### Introductory
+Note: Undergrad level readings. More general, cover many subfields.
+
+1. [Chemistry: The Central Science 14th Edition](https://www.amazon.com/Chemistry-Central-Science-Theodore-Brown/dp/0134414233)
+    T. Brown, H. LeMay, B, Bursten, C. Murphy, P. Woodward, M. Stoltzfus. Pearson, 2017
+2. [Principles of Modern Chemistry](https://www.amazon.com/Principles-Modern-Chemistry-David-Oxtoby/dp/1305079116)
+    D.W. Oxtoby, H.P. Gillis, & A. Campion. Thomson Brooks/Cole, 2008
+3. [Organic Chemistry Seventh Edition](https://www.amazon.com/Organic-Chemistry-Marc-Loudon/dp/1319188427)
+    M. Loudon & J. Parise. W. H. Freeman, 2021
+4. [Quantitative Chemical Analysis](https://www.amazon.com/Quantitative-Chemical-Analysis-Daniel-Harris/dp/1429218150)
+    D. C. Harris. W. H. Freeman, 2010
+5. [Lehninger Principles of Biochemistry](https://www.amazon.com/Lehninger-Principles-Biochemistry-David-Nelson/dp/1464126119)
+    D. L. Nelson & M. M. Cox 
+6. [Physical Chemistry 4th Edition](https://www.amazon.com/Physical-Chemistry-Robert-J-Silbey/dp/047121504X)
+    R. J. Silbey, R. A. Alberty, & M. G. Bawendi. Wiley, 2004
+7. [Atkins' Physical Chemistry](https://www.amazon.com/Atkins-Physical-Chemistry-11e-Peter/dp/0198769865)
+    P. Atkins, J. de Paula, & J. Keeler. Oxford University Press, 2018
+8. [Fundamental of Polymer Science](https://www.amazon.com/Fundamentals-Polymer-Science-Introductory-Text/dp/1566765595)
+    M. M. Coleman & P. C. Painter. Routledge, 1998
+
+
+#### Advanced 
+Note: Graduate level readings.
+
 1. [Modern quantum chemistry: introduction to advanced electronic structure theory](https://www.amazon.com/Modern-Quantum-Chemistry-Introduction-Electronic/dp/0486691861)
     A. Szabo & N.S. Ostlund. Courier Corporation, 2012.
 2. [Density-functional theory of atoms and molecules](https://www.amazon.com/Density-Functional-Molecules-International-Monographs-Chemistry/dp/0195092767)
     R. G. Parr & W. Yang. Oxford University Press, 1994
 3. [Molecular electronic-structure theory](https://www.amazon.com/Molecular-Electronic-Structure-Theory-Trygve-Helgaker/dp/1118531477)
     T. Helgaker, P. Jorgensen, J. Olsen. Wiley, 2013
-4. [Statistical mechanics: theory and molecular simulation](https://www.amazon.com/Statistical-Mechanics-Molecular-Simulation-Graduate/dp/0198525265/)
+4. [Statistical mechanics: theory and molecular simulation](https://www.amazon.com/Statistical-Mechanics-Molecular-Simulation-Graduate/dp/0198525265)
     M. E. Tuckerman. Oxford University Press, 2010
-5. 
+5. [Theories of molecular reaction dynamics: the microscopic foundation of chemical kinetics](https://www.amazon.com/Theories-Molecular-Reaction-Dynamics-Microscopic/dp/0199652759)
+    N. E. Henriksen & F. Y. Hansen. Oxford University Press, 2012
+6. [Essentials of Computational Chemistry: Theories and Models](https://www.amazon.com/Essentials-Computational-Chemistry-Theories-Models/dp/0470091827)
+    C. J. Cramer. Wiley, 2004
+7. [Introduction to Spectroscopy](https://www.amazon.com/Introduction-Spectroscopy-Donald-L-Pavia/dp/128546012X)
+    D. L. Pavia, G. M. Lampman, G. S. Kriz, & J. A. Vyvyan. Cengage Learning, 2014
+8. [First Course in Electrode Processes](https://www.amazon.com/First-Course-Electrode-Processes-ebook/dp/B07QGN1XTV)
+    D. Pletcher. Royal Society of Chemistry, 2019
+9. [Biological Physics: Energy, Information, Life](https://www.amazon.com/Biological-Physics-Student-Energy-Information/dp/057868702X)
+    P. Nelson. Chiliagon Science, 2020
 
 ### Machine_Learning
 1. 
