@@ -143,7 +143,17 @@ Note: Graduate level readings.
 
 
 ### Machine Learning
-1. 
+Note: General reading materials. For indepth reading, could check out other awesome series repo, for example, [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+
+1. [Machine learning: A probabilistic perspective](https://www.amazon.com/Machine-Learning-Probabilistic-Perspective-Computation/dp/0262018020)
+    K. P. Murphy. The MIT Press, 2012
+2. [Deep Learning](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618)
+    I. Goodfellow, Y. Bengio & A. Courville. The MIT Press, 2016
+3. [Pattern recognition and machine learning](https://www.amazon.com/dp/0387310738)
+    C. M. Bishop. Springer, 2006
+4. [The elements of statistical learning: Data mining, inference, and prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576)
+    T. Hastie, R. Tibshirani & J. Friedman. Springer, 2016
+
 
 ## Retrosynthesis [^](#table-of-contents)
 ### Molecular/Material Design
