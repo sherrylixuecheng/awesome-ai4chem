@@ -31,10 +31,10 @@ Press `^` to return to the **`Table of Contents`**.
     - [Wavefunction learning](#wavefunction-learning)
     - [Wavefunction theory learning](#wavefunction-theory-learning)
     - [Active/embedding space learning](#active-embedding=space-learning)
-    - [Property learning](#property-learning)
 - [Theoretical/Computational chemistry: Molecular Dynamics](#molecular-dynamics)
     - [Enhanced sampling](#enhanced-sampling)
     - [Force field design](#force-field-design) 
+- [Theoretical/Computational chemistry: Property learning](#property-learning)
 - [Generalized model/Datasets](#generalized-model/datasets)
 - [Experimental physical chemistry](#experimental-physical-chemistry)
 - [Biochemistry: Biomolecule (protein/nucleic acid/lipid) design/structure](#biomolecule-design)
@@ -169,15 +169,33 @@ Note: General reading materials. For indepth reading, could check out other awes
 2. 
 
 ## Electronic Structure [^](#table-of-contents)
-1. ...
+ 
 
 ## Molecular Dynamics [^](#table-of-contents)
 
 ### Force Field Design
 1. [SchNet - A deep learning architecture for molecules and materials](https://pubs.aip.org/aip/jcp/article/148/24/241722/962591/SchNet-A-deep-learning-architecture-for-molecules) 
-    K. T. Schütt, H. E. Sauceda, P.-J. Kindermans, A. Tkatchenko, K.-R. Müller, The Journal of Chemical Physics **148**, 241722 (2018)
+    K. T. Schütt, H. E. Sauceda, P.-J. Kindermans, A. Tkatchenko, & K.-R. Müller, The Journal of Chemical Physics **148**, 241722 (2018)
 2. [ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost](https://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
-    J. S. Smith,   O. Isayev, & A. E. Roitberg, Chemical Sciences **8**, 3192-3203 (2017)
+    J. S. Smith, O. Isayev, & A. E. Roitberg, Chemical Sciences **8**, 3192-3203 (2017)
+3. [Gaussian approximation potentials: The accuracy of quantum mechanics, without the electrons.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.104.136403)
+    A. P. Bartók, M. C. Payne, R. Kondor, & G. Csányi, Physical Review Letters **104**, 136403 (2010)
+4. [Machine learning Of accurate energy-conserving molecular force fields.](https://www.science.org/doi/10.1126/sciadv.1603015) 
+    S. Chmiela, A. Tkatchenko, H. E. Sauceda, I. Poltavsky, K. T. Schütt, & K.-R. Müller, Science Advances **3**, No. e1603015 (2017)
+5. [DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics.]
+    H. Wang, L. Zhang, J. Han, & E. Weinan, Computer Physics Communications **228**, 178−184 (2018)
+6. [Generalized neural-network representation of high-dimensional potential-energy surfaces.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401)
+    J. Behler &  M. Parrinello Physical Review Letters **98**, 146401 (2007)
+7. [The TensorMol-0.1 model chemistry: A neural network augmented with long-range physics.](https://pubs.rsc.org/en/content/articlehtml/2018/sc/c7sc04934j)
+    K. Yao, J. E. Herr, D. W. Toth, R. Mckintyre, J. Parkhill, Chemical Sciences **9**, 2261−2269 (2018)
+8. 
+9. 
+10. 
+
+## Property learning [^](#table-of-contents)
+1. [Physnet: A neural network for predicting energies, forces, dipole moments and partial charges.](https://pubs.acs.org/doi/10.1021/acs.jctc.9b00181)
+    O. T. Unke & M. Meuwly, Journal of Chemical Theory and Computions **15**, 3678−3693 (2019)
+2.
 
 ## Generalized Model/Datasets [^](#table-of-contents)
 1. [The Open Reaction Database](https://pubs.acs.org/doi/10.1021/jacs.1c09820)
