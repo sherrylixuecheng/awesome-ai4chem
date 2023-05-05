@@ -73,12 +73,14 @@ Note: We will try to provide both the most influncial/comprehensive reviews and 
     L. B. Ayres, F. J.V. Gomez, J. R. Linton, M. F. Silva, & C. D. Garcia, Analytica Chimica Acta **1161**, 338403 (2021)
 14. [Recent advances and applications of deep learning methods in materials science.](https://www.nature.com/articles/s41524-022-00734-6)
     K. Choudhary, B. DeCost, C. Chen, A. Jain, F. Tavazza, R. Cohn, C. W. Park, A. Choudhary, A. Agrawal, S. J. L. Billinge, E. Holm, S. P. Ong, & C. Wolverton, npj Computational Materials **8**, 59 (2022)
-15. [Perspective on integrating machine learning into computational chemistry and materials science](https://pubs.aip.org/aip/jcp/article/154/23/230903/200193/Perspective-on-integrating-machine-learning-into)
+15. [Perspective on integrating machine learning into computational chemistry and materials science.](https://pubs.aip.org/aip/jcp/article/154/23/230903/200193/Perspective-on-integrating-machine-learning-into)
     J. Westermayr, M. Gastegger, K. T. Schütt, & R. J. Maurer, The Journal of Chemical Physics **154**, 230903 (2021)
 
-16. [Machine learning in scanning transmission electron microscopy](https://www.nature.com/articles/s43586-022-00095-w)
+16. [Machine learning in scanning transmission electron microscopy.](https://www.nature.com/articles/s43586-022-00095-w)
     S. V. Kalinin, C. Ophus, P. M. Voyles, R. Erni, D. Kepaptsoglou, V. Grillo, A. R. Lupini, M. P. Oxley, E. Schwenker, M. K. Y. Chan, J. Etheridge, X. Li, G. G. D. Han, M. Ziatdinov, N. Shibata, & S. J. Pennycook, Nature Reviews Methods Primers **2**, 11 (2022) 
 
+17. [Deep learning and artificial intelligence methods for Raman and surface-enhanced Raman scattering.](https://www.sciencedirect.com/science/article/pii/S0165993619305783)
+    F. Lussier, V. Thibault, B. Charron, G. Q. Wallace, & J.-F. Masson. TrAC Trends in Analytical Chemistry **124**, 115796 (2020) 
 
 ## Books [^](#table-of-contents)
 Note: We will try to provide both the most influncial/comprehensive books (usually the bible book for a field). We provide the links to the corresponding Amazon page to avoid confusion. The list will be updated timely manner. 
