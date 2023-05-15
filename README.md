@@ -184,7 +184,7 @@ Note: General reading materials. For indepth reading, could check out other awes
     A. P. Bartók, M. C. Payne, R. Kondor, & G. Csányi, Physical Review Letters **104**, 136403 (2010)
 4. [Machine learning Of accurate energy-conserving molecular force fields.](https://www.science.org/doi/10.1126/sciadv.1603015) 
     S. Chmiela, A. Tkatchenko, H. E. Sauceda, I. Poltavsky, K. T. Schütt, & K.-R. Müller, Science Advances **3**, No. e1603015 (2017)
-5. [DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics.]
+5. [DeePMD-kit: A deep learning package for many-body potential energy representation and molecular dynamics.](https://www.sciencedirect.com/science/article/pii/S0010465518300882)
     H. Wang, L. Zhang, J. Han, & E. Weinan, Computer Physics Communications **228**, 178−184 (2018)
 6. [Generalized neural-network representation of high-dimensional potential-energy surfaces.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.146401)
     J. Behler &  M. Parrinello Physical Review Letters **98**, 146401 (2007)
