@@ -190,7 +190,8 @@ Note: General reading materials. For indepth reading, could check out other awes
     J. Behler &  M. Parrinello Physical Review Letters **98**, 146401 (2007)
 7. [The TensorMol-0.1 model chemistry: A neural network augmented with long-range physics.](https://pubs.rsc.org/en/content/articlehtml/2018/sc/c7sc04934j)
     K. Yao, J. E. Herr, D. W. Toth, R. Mckintyre, J. Parkhill, Chemical Sciences **9**, 2261−2269 (2018)
-8. 
+8. [Teaching a neural network to attach and detach electrons from molecules.](https://www.nature.com/articles/s41467-021-24904-0)
+    R. Zubatyuk, J. S. Smith, B. T. Nebgen, S. Tretiak, & O. Isayev, Nature Communications **12**, 4870 (2021)
 9. 
 10. 
 
@@ -226,7 +227,6 @@ Note: General reading materials. For indepth reading, could check out other awes
 - [tmQM Dataset](https://chemrxiv.org/engage/chemrxiv/article-details/60c74f55f96a00358e287c11) Dataset: [Geometries](http://quantum-machine.org/data/tmQM/tmQM_X.xyz.gz)   \&  [Properties](http://quantum-machine.org/data/tmQM/tmQM_y.csv.gz)
      D. Balcells, B. B. Skjelstad ChemRxiv. (2020)
 
-
 3. GDB series:
 - GDB 17:
     - [Original paper](https://pubs.acs.org/doi/full/10.1021/ci300415d)
@@ -246,6 +246,10 @@ Note: General reading materials. For indepth reading, could check out other awes
 
 6. [Harvard organic photovoltaic dataset(HOPV15)](https://www.nature.com/articles/sdata201686) [Dataset](https://www.nature.com/articles/sdata201686#ref-CR43)
     S. A. Lopez, E. O. Pyzer-Knapp, G. N. Simm, T. Lutzow, K. Li, L. R. Seress, J. Hachmann, & A. Aspuru-Guzik, Scientific Data **3**, 160086 (2016)
+
+4. [The material project.](https://pubs.aip.org/aip/apm/article/1/1/011002/119685/Commentary-The-Materials-Project-A-materials) [Website](https://materialsproject.org/)
+    A. Jain, S. P. Ong, G. Hautier, W. Chen, W. D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, & K. A. Persson, APL Materials **1**, 011002 (2013)
+
 
 ## Experimental Physical Chemistry [^](#table-of-contents)
 1. ...
