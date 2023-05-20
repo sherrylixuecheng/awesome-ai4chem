@@ -82,6 +82,10 @@ Note: We will try to provide both the most influncial/comprehensive reviews and 
 17. [Deep learning and artificial intelligence methods for Raman and surface-enhanced Raman scattering.](https://www.sciencedirect.com/science/article/pii/S0165993619305783)
     F. Lussier, V. Thibault, B. Charron, G. Q. Wallace, & J.-F. Masson. TrAC Trends in Analytical Chemistry **124**, 115796 (2020) 
 
+18. [Machine Learning-Driven Multiscale Modeling: Bridging the Scales with a Next-Generation Simulation Infrastructure.](https://pubs.acs.org/doi/10.1021/acs.jctc.2c01018)
+    H. I. Ingólfsson, H. Bhatia, F. Aydin,..., & F. H. Streitz, Journal of Chemical Theory and Computation **19**(9), 2658-2675 (2023)
+
+
 ## Books [^](#table-of-contents)
 Note: We will try to provide both the most influncial/comprehensive books (usually the bible book for a field). We provide the links to the corresponding Amazon page to avoid confusion. The list will be updated timely manner. 
 
