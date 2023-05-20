@@ -201,11 +201,11 @@ Note: General reading materials. For indepth reading, could check out other awes
 2.
 
 ## Generalized Model/Datasets [^](#table-of-contents)
-1. [The Open Reaction Database](https://pubs.acs.org/doi/10.1021/jacs.1c09820)
+1. [The Open Reaction Database.](https://pubs.acs.org/doi/10.1021/jacs.1c09820)
     S. M. Kearnes, M. R. Maser, M. Wleklinski, A. Kast, A. G. Doyle, S. D. Dreher, J. M. Hawkins, K.s F. Jensen, & C. W. Coley, Journal of the American Chemical Society **143**(45), 18820–18826 (2021). [Dataset](https://docs.open-reaction-database.org/en/latest/)
 2. QM series (Please also see [quantum-machine](http://quantum-machine.org/datasets/) page)
 - QM9 Dataset:
-    - [Quantum chemistry structures and properties of 134 kilo molecules](https://www.nature.com/articles/sdata201422)
+    - [Quantum chemistry structures and properties of 134 kilo molecules.](https://www.nature.com/articles/sdata201422)
         R. Ramakrishnan, P. O. Dral, M. Rupp, & O. A. von Lilienfeld, Scientific Data **1**, 140022 (2014) 
     - [Orginial version. Theory: B3LYP/6-31G(2df,p)](https://doi.org/10.6084/m9.figshare.978904)
     - [Wavefunction theory verison. Theory: MP2/cc-pVTZ](https://doi.org/10.22002/D1.20142) Only has dipole moments and molecular energies
@@ -224,32 +224,34 @@ Note: General reading materials. For indepth reading, could check out other awes
     M. Schwilk, D. N. Tahchieva, & O. A. von Lilienfeld, arXiv:2004.10600 (2020)
     - Dataset[Part 1](http://quantum-machine.org/data/qmspin/QMspin_Part1.tar.gz)  \&  [Part 2](http://quantum-machine.org/data/qmspin/QMspin_Part1_wo_outputs.tar.gz)
  
-- [tmQM Dataset](https://chemrxiv.org/engage/chemrxiv/article-details/60c74f55f96a00358e287c11) Dataset: [Geometries](http://quantum-machine.org/data/tmQM/tmQM_X.xyz.gz)   \&  [Properties](http://quantum-machine.org/data/tmQM/tmQM_y.csv.gz)
+- [tmQM Dataset.](https://chemrxiv.org/engage/chemrxiv/article-details/60c74f55f96a00358e287c11) Dataset: [Geometries](http://quantum-machine.org/data/tmQM/tmQM_X.xyz.gz)   \&  [Properties](http://quantum-machine.org/data/tmQM/tmQM_y.csv.gz)
      D. Balcells, B. B. Skjelstad ChemRxiv. (2020)
 
 3. GDB series:
 - GDB 17:
-    - [Original paper](https://pubs.acs.org/doi/full/10.1021/ci300415d)
+    - [Original paper.](https://pubs.acs.org/doi/full/10.1021/ci300415d)
     L. Ruddigkeit, R. van Deursen, L. C. Blum, & J.-L. Reymond, Journal of Chemical Information and Modelling **52**, 2864–2875 (2012)
 - GDB 13:
-    - [Original paper](https://pubs.acs.org/doi/10.1021/ja902302h)
+    - [Original paper.](https://pubs.acs.org/doi/10.1021/ja902302h)
     L. C. Blum & J.-L. Reymond, Journal of the American Chemical Society **131**, 8732 (2009)
 
-4. [MD17 dataset](https://www.science.org/doi/10.1126/sciadv.1603015) 
-    - [Original Dataset](http://www.sgdml.org/#datasets)
+4. [MD17 dataset.](https://www.science.org/doi/10.1126/sciadv.1603015) 
+    - [Original Dataset.](http://www.sgdml.org/#datasets)
     S. Chmiela, A. Tkatchenko, H. E. Sauceda, I. Poltavsky, K. T. Schütt, & K.-R. Müller, Science Advances **3**,e1603015(2017)
-    - [Reviseddataset (rMD17)](https://figshare.com/articles/dataset/Revised_MD17_dataset_rMD17_/12672038)
+    - [Reviseddataset (rMD17).](https://figshare.com/articles/dataset/Revised_MD17_dataset_rMD17_/12672038)
     A. S. Christensen & O. A. von Lilienfeld, arXiv:2007.09593 (2020)
 
-5. [DESMILES Models & Training datasets](https://www.deshawresearch.com/downloads/download_desmiles.cgi/)
+5. [DESMILES Models & Training datasets.](https://www.deshawresearch.com/downloads/download_desmiles.cgi/)
     P. Maragakis, H. Nisonoff, B. Cole, & D. E. Shaw
 
-6. [Harvard organic photovoltaic dataset(HOPV15)](https://www.nature.com/articles/sdata201686) [Dataset](https://www.nature.com/articles/sdata201686#ref-CR43)
+6. [Harvard organic photovoltaic dataset(HOPV15).](https://www.nature.com/articles/sdata201686) [Dataset](https://www.nature.com/articles/sdata201686#ref-CR43)
     S. A. Lopez, E. O. Pyzer-Knapp, G. N. Simm, T. Lutzow, K. Li, L. R. Seress, J. Hachmann, & A. Aspuru-Guzik, Scientific Data **3**, 160086 (2016)
 
-4. [The material project.](https://pubs.aip.org/aip/apm/article/1/1/011002/119685/Commentary-The-Materials-Project-A-materials) [Website](https://materialsproject.org/)
+7. [The material project.](https://pubs.aip.org/aip/apm/article/1/1/011002/119685/Commentary-The-Materials-Project-A-materials) [Website](https://materialsproject.org/)
     A. Jain, S. P. Ong, G. Hautier, W. Chen, W. D. Richards, S. Dacek, S. Cholia, D. Gunter, D. Skinner, G. Ceder, & K. A. Persson, APL Materials **1**, 011002 (2013)
 
+8. [The Liverpool materials discovery server.](https://chemrxiv.org/engage/chemrxiv/article-details/646612c7a32ceeff2dd7d288) [Website](lmds.liverpool.ac.uk)
+    S. Durdy, C. J. Hargreaves, M. Dennison, B. Wagg, M. Moran, J. A. Newnham, M. W. Gaultois, M. J. Rosseinsky, & M. Dyer, ChemRxiv, 10.26434/chemrxiv-2023-wgdm0 (2023)
 
 ## Experimental Physical Chemistry [^](#table-of-contents)
 1. ...
